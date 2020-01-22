@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  demo-dll.cpp
+  dllmain.cpp
+    正在创建库 D:\code\demo-dll\Release\demo-dll.lib 和对象 D:\code\demo-dll\Release\demo-dll.exp
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  demo-dll.vcxproj -> D:\code\demo-dll\Release\demo-dll.dll
